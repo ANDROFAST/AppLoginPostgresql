@@ -1,0 +1,14 @@
+Tutorial Link:
+
+Tambien te recomendamos
+como rellenar un spinner en android desde una base de datos en Mysql
+http://www.androfast.com/2016/05/llenar-spinner-en-android-desde-una.html
+
+Mostrar datos en un ListView extraido de una base de datos en Postgresql
+http://www.androfast.com/2016/05/mostrar-datos-en-un-listview-extraido.html
+
+como hacer un login con la api de facebook mostrando nombre,imagen,genero
+http://www.androfast.com/2016/08/como-hacer-un-login-con-la-api-de.html
+
+Creado por: AndroFast
+http://www.androfast.com/
